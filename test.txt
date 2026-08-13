@@ -1,1 +1,2 @@
-city : None1
+city : Bangalore
+
